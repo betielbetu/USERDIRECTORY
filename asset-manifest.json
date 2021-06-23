@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/betielbetu/USERDIRECTORY/static/css/main.b3bf56cd.chunk.css",
+    "main.js": "/betielbetu/USERDIRECTORY/static/js/main.966a2c35.chunk.js",
+    "main.js.map": "/betielbetu/USERDIRECTORY/static/js/main.966a2c35.chunk.js.map",
+    "runtime-main.js": "/betielbetu/USERDIRECTORY/static/js/runtime-main.0d6df141.js",
+    "runtime-main.js.map": "/betielbetu/USERDIRECTORY/static/js/runtime-main.0d6df141.js.map",
+    "static/css/2.92200efa.chunk.css": "/betielbetu/USERDIRECTORY/static/css/2.92200efa.chunk.css",
+    "static/js/2.723d3302.chunk.js": "/betielbetu/USERDIRECTORY/static/js/2.723d3302.chunk.js",
+    "static/js/2.723d3302.chunk.js.map": "/betielbetu/USERDIRECTORY/static/js/2.723d3302.chunk.js.map",
+    "static/js/3.1babe538.chunk.js": "/betielbetu/USERDIRECTORY/static/js/3.1babe538.chunk.js",
+    "static/js/3.1babe538.chunk.js.map": "/betielbetu/USERDIRECTORY/static/js/3.1babe538.chunk.js.map",
+    "index.html": "/betielbetu/USERDIRECTORY/index.html",
+    "static/css/2.92200efa.chunk.css.map": "/betielbetu/USERDIRECTORY/static/css/2.92200efa.chunk.css.map",
+    "static/css/main.b3bf56cd.chunk.css.map": "/betielbetu/USERDIRECTORY/static/css/main.b3bf56cd.chunk.css.map",
+    "static/js/2.723d3302.chunk.js.LICENSE.txt": "/betielbetu/USERDIRECTORY/static/js/2.723d3302.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d6df141.js",
+    "static/css/2.92200efa.chunk.css",
+    "static/js/2.723d3302.chunk.js",
+    "static/css/main.b3bf56cd.chunk.css",
+    "static/js/main.966a2c35.chunk.js"
+  ]
+}
